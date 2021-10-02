@@ -1,6 +1,6 @@
 # Just my hobby
-Have Fun
-I like ur advise
+Have Fun\n
+I like ur advise\n
 thx
 
 If u hav something problem giv me discord
